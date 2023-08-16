@@ -1,6 +1,8 @@
 #!/usr/local/bin/node
 // test.js
 
+// typ determination
+
 const gt = require('go-typ');
 const items = {
     o: {a:1, b:2},
