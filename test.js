@@ -2,6 +2,7 @@
 // test.js
 
 // typ determination
+// another comment
 
 const gt = require('go-typ');
 const items = {
